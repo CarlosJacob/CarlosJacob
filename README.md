@@ -2,7 +2,7 @@
 ## I am an enthusiast with technology and learning. Always ready to help.
 
 - 🚀 In my free time I am working [VS Code WebSite][website]!
-- 🔭 I’m currently on [Mainsoft S.A.][website3] using the APM [Dynatrace][website2]
+- 🔭 I’m currently on BANK using the APM [Dynatrace][website2]
 - 🌱 I’m currently learning Flutter and Go 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn Cloud and Kubernetes, improve python code
