@@ -5,7 +5,7 @@
 - 🔭 I’m currently on BANK using the APM [Dynatrace][website2]
 - 🌱 I’m currently learning Flutter and Go 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn Cloud and Kubernetes, improve python code
+- 🥅 2023 Goals: Learn Cloud GCP, improve python and Java springboot code
 - ⚡ Fun fact: play guitar / Makes great photos / Make a great :pizza:
 
 <!-- ### Spotify Playing 🎧
